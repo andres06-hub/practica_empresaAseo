@@ -1,0 +1,10 @@
+C:\Users\SENA\source\repos\taller1_calcular\taller1_calcular\bin\Debug\taller1_calcular.exe.config
+C:\Users\SENA\source\repos\taller1_calcular\taller1_calcular\bin\Debug\taller1_calcular.exe
+C:\Users\SENA\source\repos\taller1_calcular\taller1_calcular\bin\Debug\taller1_calcular.pdb
+C:\Users\SENA\source\repos\taller1_calcular\taller1_calcular\obj\Debug\taller1_calcular.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\taller1_calcular\taller1_calcular\obj\Debug\taller1_calcular.Form1.resources
+C:\Users\SENA\source\repos\taller1_calcular\taller1_calcular\obj\Debug\taller1_calcular.Properties.Resources.resources
+C:\Users\SENA\source\repos\taller1_calcular\taller1_calcular\obj\Debug\taller1_calcular.csproj.GenerateResource.cache
+C:\Users\SENA\source\repos\taller1_calcular\taller1_calcular\obj\Debug\taller1_calcular.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\taller1_calcular\taller1_calcular\obj\Debug\taller1_calcular.exe
+C:\Users\SENA\source\repos\taller1_calcular\taller1_calcular\obj\Debug\taller1_calcular.pdb

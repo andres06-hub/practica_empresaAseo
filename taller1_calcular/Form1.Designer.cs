@@ -98,6 +98,7 @@ namespace taller1_calcular
             this.txtCodigo.Name = "txtCodigo";
             this.txtCodigo.Size = new System.Drawing.Size(114, 20);
             this.txtCodigo.TabIndex = 0;
+            //this.txtCodigo.
             this.txtCodigo.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // txtLectuAnte

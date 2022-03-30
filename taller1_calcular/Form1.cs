@@ -143,8 +143,17 @@ namespace taller1_calcular
         {
             //Calcular el "ValorM^3"
             //FORMULA -> (estrato * 185)
-            double valorM3 = listOfData[3] * 185;
-            Console.WriteLine("ValorM3 :: ", valorM3);
+            double valorM3 = 0.0;
+            try
+            {
+                valorM3 = listOfData[3] * 185;
+                Console.WriteLine("ValorM3 :: ", valorM3);
+
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("ERROR, invalited input");
+            }
 
             //Calcular el "Consumo"
             //FORMULA -> (lecturaActual - lecturaAnterios)
